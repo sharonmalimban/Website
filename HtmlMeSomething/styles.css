@@ -1,0 +1,24 @@
+﻿html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    line-height: 1.9em;
+    background-color: #ccffff;
+    font: 15px Trebuchet MS, sans-serif;
+    text-align: center;
+    color: #002233;
+}
+h1 {
+    text-decoration: underline;
+    text-shadow: 1px 1px #000000;
+    color: #004466;
+}
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 970px;
+        text-align: center
+    }
